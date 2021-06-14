@@ -1,0 +1,22 @@
+[Desktop Entry]
+Type=Application
+Exec=codium %U
+Terminal=false
+Name=VSCodium
+Icon=code
+Comment=Code Editing. Redefined.
+GenericName=Text Editor
+MimeType=text/plain;inode/directory;
+Categories=Utility;TextEditor;Development;IDE;
+StartupNotify=true
+StartupWMClass=vscodium
+Actions=new-empty-window;
+Keywords=vscode;
+X-XFCE-Source=file:///run/current-system/sw/share/applications/codium.desktop
+
+Path=
+
+[Desktop Action new-empty-window]
+Name=New Empty Window
+Exec=codium --new-window %F
+Icon=code

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Notepad++
+Exec=env WINEPREFIX="/home/evolver/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/evolver/.wine/dosdevices/c:/ProgramData/Microsoft/Windows/Start\\ Menu/Programs/Notepad++.lnk
+Type=Application
+StartupNotify=true
+Path=/home/evolver/.wine/dosdevices/c:/Program Files/Notepad++
+Icon=33E8_notepad++.0
+StartupWMClass=notepad++.exe
+X-XFCE-Source=file:///home/evolver/.local/share/applications/wine/Programs/Notepad++.desktop

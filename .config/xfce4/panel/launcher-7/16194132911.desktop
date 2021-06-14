@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Exec=firefox %U
+Terminal=false
+Name=Firefox
+Icon=firefox
+Comment=
+GenericName=Web Browser
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp
+Categories=Network;WebBrowser;
+X-XFCE-Source=file:///run/current-system/sw/share/applications/firefox.desktop
+Path=
+StartupNotify=true

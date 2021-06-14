@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=/nix/store/mywi1civa7j0645bvs6c1lfjxl2wjwxq-google-chrome-90.0.4430.85/bin/google-chrome-stable %U
+Icon=google-chrome
+StartupNotify=true
+Terminal=false
+Categories=Network;X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+X-XFCE-MimeType=x-scheme-handler/http;x-scheme-handler/https;
+X-AppStream-Ignore=True
+Name=Chrome
+Comment=Google Chrome
+X-XFCE-Source=file:///nix/store/cr1czsh5lp77ynf3c5cm5w9p3zlzpyyr-exo-0.12.11/share/applications/exo-web-browser.desktop
+Path=

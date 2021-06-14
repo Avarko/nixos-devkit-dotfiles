@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Java;Network
+Comment=Eclipse-based LDAP browser and directory client
+Exec=ApacheDirectoryStudio
+GenericName=Apache Directory Studio
+Icon=apache-directory-studio
+Name=Apache Directory Studio
+Terminal=false
+Type=Application
+X-XFCE-Source=file:///run/current-system/sw/share/applications/apache-directory-studio.desktop

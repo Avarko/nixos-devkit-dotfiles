@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Exec=kcolorchooser
+Icon=gtk-color-picker
+Terminal=false
+X-DocPath=fundamentals/index.html#colors
+GenericName=Color Chooser
+Name=KColorChooser
+Comment=Color selector and palette editor
+Categories=Qt;KDE;Graphics;X-KDE-More;
+X-XFCE-Source=file:///run/current-system/sw/share/applications/org.kde.kcolorchooser.desktop
+Path=
+StartupNotify=false

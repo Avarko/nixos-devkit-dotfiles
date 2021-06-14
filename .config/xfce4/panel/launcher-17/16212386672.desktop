@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=tmux
+GenericName=Terminal emulator
+Comment=Moni-ikkunainen (tmux) shell
+TryExec=kitty
+Exec=xfce4-terminal --maximize -e tmux
+Icon=/home/evolver/Desktop/Icon-tmux.png
+Categories=System;TerminalEmulator;
+X-XFCE-Source=file:///run/current-system/sw/share/applications/kitty.desktop
+Path=
+Terminal=false
+StartupNotify=true

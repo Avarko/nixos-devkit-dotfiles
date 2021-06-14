@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Development;
+Comment=Sovellusten tietokantayhteydet
+Exec=dbeaver
+GenericName=SQL Integrated Development Environment
+Icon=dbeaver
+Name=dBeaver
+Terminal=false
+Type=Application
+X-XFCE-Source=file:///run/current-system/sw/share/applications/dbeaver.desktop
+Path=
+StartupNotify=false

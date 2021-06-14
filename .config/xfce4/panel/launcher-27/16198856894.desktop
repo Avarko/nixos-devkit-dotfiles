@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=kitty --class='VR VPN' --title='VR VPN' --hold --config='/home/evolver/Desktop/vr-vpn-kitty.conf' -e '/home/evolver/Desktop/launch-vr-vpn.sh'
+Icon=/home/evolver/Desktop/Icon-VR_VPN.png
+StartupNotify=true
+Terminal=false
+Categories=Utility;X-XFCE;X-Xfce-Toplevel;
+OnlyShowIn=XFCE;
+Name=VR VPN
+Comment=VR VPN
+X-XFCE-Source=file:///run/current-system/sw/share/applications/xfce4-run.desktop
+Path=

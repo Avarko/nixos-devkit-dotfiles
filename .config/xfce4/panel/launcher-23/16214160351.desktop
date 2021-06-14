@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=FileZilla
+GenericName=FTP client
+Comment=Yhteydet VR:n FTP-palvelimiin
+Exec=filezilla
+Terminal=false
+Icon=/home/evolver/Desktop/Icon-FileZilla.png
+Type=Application
+Categories=Network;FileTransfer;
+Version=1.0
+X-XFCE-Source=file:///run/current-system/sw/share/applications/filezilla.desktop
+Path=
+StartupNotify=false
