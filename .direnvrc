@@ -1,0 +1,5 @@
+# https://github.com/nix-community/nix-direnv
+source /run/current-system/sw/share/nix-direnv/direnvrc
+
+# colored direnv output -- see also ~/.bashrc
+export DIRENV_LOG_FORMAT="$(printf "\033[35mhttps://github.com/Avarko/nixos-devkit/wiki/direnv: %%s\033[0m")"
