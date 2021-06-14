@@ -7,4 +7,4 @@ if [ -n "$DESKTOP_SESSION" ]; then
     export SSH_AUTH_SOCK
 fi
 export BROWSER=/run/current-system/sw/bin/google-chrome-stable
-alias config='/usr/bin/git --git-dir=/home/evolver/.cfg/ --work-tree=/home/evolver'
+alias config='/run/current-system/sw/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
